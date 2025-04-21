@@ -1,0 +1,19 @@
+- git add . (para adicionar os arquivos clonados)
+- git commit -m " "
+- git log --oneline (verificar o histórico do projeto)
+- git log --graph
+- git log --decorate
+- git log --all
+- Fiz uma pequena alteração
+- git add .
+- git commit -m " "
+- git revert <hash>
+- git log --oneline
+- Fiz mais uma alteração
+- git add .
+- git commit -m " "
+- git revert <hash>
+- git log --all
+- git tag -a v1.0 3d80f9c -m " "
+- git push origin v1.0
+- git log --oneline (para verificar se a tag foi registrada)
