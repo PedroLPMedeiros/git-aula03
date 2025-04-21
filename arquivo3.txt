@@ -1,1 +1,2 @@
 Terceiro arquivo de texto
+Novo registro no arquivo 3, testando git revert e git reset
